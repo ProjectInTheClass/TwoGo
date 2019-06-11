@@ -11,7 +11,7 @@ Payment tab:
 After ordering a meal, the host is responsible for paying for all of the food ordered. The users who joined that room then sends the money to the host via card or by physical money; if the users send money by card, the process is automatic, and if the users send money through cash, the host manually inputs into the application that they received the money. Users will be locked out from creating or joining any rooms until the money is paid.
 
 History tab:
-Users can view previous orders so they can buy from the same restaurant if they want to.
+Users can see their previous meals through the history tab so they can re-order certain deliveries they've ordered before.
 
 Profile tab:
-The user can change various settings including location settings, application settings, and user settings for more control over the application.
+Settings regarding the application, user preferences, location settings, and more can be found in the profile tab.
